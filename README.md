@@ -1,3 +1,1 @@
-# Lama Dev Chat App Starter template
-
-This template provides a minimal setup to get React working in Vite.
+A chating web application based on firebase for backend and react with vite in frontend.
